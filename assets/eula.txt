@@ -1,0 +1,18 @@
+END USER LICENSE AGREEMENT
+
+Last updated: March 2026
+
+1. ACCEPTANCE OF TERMS
+By downloading or using this application, you agree to be bound by these terms.
+
+2. USE LICENSE
+You are granted a limited, non-exclusive license to use this application for personal purposes.
+
+3. PRIVACY
+This app collects minimal user data necessary for authentication purposes only.
+
+4. DISCLAIMER
+This app is provided "as is" without warranty of any kind.
+
+5. CONTACT
+For questions about this EULA, please contact support.
